@@ -1,4 +1,4 @@
-An "invisible" Windows utility that writes the clipboard contents to a text file
+**clip2txt : a Windows utility that saves the clipboard contents to a text file**
 
 Clip2txt.exe is a Windows command-line utility that writes the contents of the Windows clipboard to a text file, optionally in a user-specified codepage for use in MS-DOS applications or other applications that rely on codepages for rendering non-ASCII characters.
 
